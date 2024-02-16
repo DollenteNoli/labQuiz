@@ -31,6 +31,14 @@ public static void main (String [] args) {
     pro = a*b;
     System.out.println("This is the pro of 2 numbers: " + pro);
   }
+//Division
+  public static void Division(){
+    int a = 10;
+    int b = 15;
+    int sum;
+    Quotient = a*b;
+    System.out.println("This is the Quotient of 2 numbers: " + quotient);
+  }
 
 
 
