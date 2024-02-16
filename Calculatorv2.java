@@ -11,10 +11,16 @@ public static void main (String [] args) {
     System.out.println("This is the sum of 2 numbers: " + sum);
   }
 
-
-
-
 }
+
+//Subtraction 
+  public static void Subtraction(){
+    int a = 100;
+    int b = 155;
+    int dif;
+    dif = a-b;
+    System.out.println("This is the difference of 2 numbers: " + dif);
+  }
 
 
 
