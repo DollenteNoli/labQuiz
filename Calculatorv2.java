@@ -23,6 +23,16 @@ public static void main (String [] args) {
   }
 
 
+  //Multiplication 
+  public static void Multiplication(){
+    int a = 10;
+    int b = 5;
+    int pro;
+    pro = a*b;
+    System.out.println("This is the pro of 2 numbers: " + pro);
+  }
+
+
 
 
 }
